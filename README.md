@@ -1,4 +1,4 @@
-# 👩🏻‍💻 RICK
+# 🧑‍💻 RICK
 
 <p align="left">
 </p>
