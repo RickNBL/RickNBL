@@ -220,8 +220,7 @@
  </a>
 
 <a href=https://henrique-silva-it.com.br target="_blank">
-<img width="80" height="80" src="https://img.icons8.com/dotty/80/about-us-male.png" alt="about-us-male"/>
-alt=Contact style="margin-bottom: 5px;" />
+<img width="40" height="40" src="https://img.icons8.com/office/40/about-us-male--v2.png" alt="about-us-male--v2"/>
 </a>
 </div>
 </p>
