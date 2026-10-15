@@ -130,11 +130,11 @@
           />
           <img 
     align="left" 
-    alt="Claude" 
-    title="Claude"
+    alt="ChatGPT" 
+    title="ChatGPT"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/fluency-systems-filled/48/chatgpt.png"
+    src="https://img.icons8.com/pulsar-gradient/48/chatgpt.png"
           />
 
 
