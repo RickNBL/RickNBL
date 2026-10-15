@@ -214,13 +214,13 @@
 <br>
 <br>
 
-### Socials Media & Contact
+### Contact
 
 <div align="left" >
  </a>
 
-<a href=https://linktr.ee/carlossilva1337 target="_blank">
-<img src=https://img.icons8.com/?size=100&id=x03G5TG9OoEO&format=png&color=000000
+<a href=[https://linktr.ee/carlossilva1337](https://henrique-silva-it.com.br/) target="_blank">
+<img src==100&id=x03G5TG9OoEO&format=png&color=000000
 alt=Linktree style="margin-bottom: 5px;" />
 </a>
 </div>
