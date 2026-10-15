@@ -219,9 +219,9 @@
 <div align="left" >
  </a>
 
-<a href=[https://linktr.ee/carlossilva1337](https://henrique-silva-it.com.br/) target="_blank">
-<img src==100&id=x03G5TG9OoEO&format=png&color=000000
-alt=Linktree style="margin-bottom: 5px;" />
+<a href=https://henrique-silva-it.com.br target="_blank">
+<img width="80" height="80" src="https://img.icons8.com/dotty/80/about-us-male.png" alt="about-us-male"/>
+alt=Contact style="margin-bottom: 5px;" />
 </a>
 </div>
 </p>
