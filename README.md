@@ -120,6 +120,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"
           />
+          <img 
+    align="left" 
+    alt="Claude" 
+    title="Claude"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/claude-ai.png" alt="claude-ai"
+          />
+          <img 
+    align="left" 
+    alt="Claude" 
+    title="Claude"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency-systems-filled/48/chatgpt.png"
+          />
 
 
 <br>
